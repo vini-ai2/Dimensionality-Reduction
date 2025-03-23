@@ -26,5 +26,10 @@ A covalence matrix is a symmetric square matrix that shows the correlation or re
 - It helps determine the number of PC(s) required to capture most of the interpretable patterns in the data.
 - Cumulative Variance:
     - To choose the smallest number of PCs that explain atleast 95% of the variance
-
+## Step 6: Top k Components
+- These are the selected components that capture the most variance in the data hence reducing the number of dimensions.
+- To remove the noise or the fluctuations picked up by the low variance PCs
+## Step 7 : Visualize all of the data
+## Step 8 : Analyse results
+Compare the results obtained by a manual PCA v.s. sci-kit PCS method.
 

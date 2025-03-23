@@ -31,5 +31,5 @@ A covalence matrix is a symmetric square matrix that shows the correlation or re
 - To remove the noise or the fluctuations picked up by the low variance PCs
 ## Step 7 : Visualize all of the data
 ## Step 8 : Analyse results
-Compare the results obtained by a manual PCA v.s. sci-kit PCS method.
+Compare the results obtained by a manual PCA v.s. sci-kit PCA method.
 

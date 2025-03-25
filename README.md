@@ -5,7 +5,7 @@ Dimensionality Reduction is the process of removing the number of features in a 
 The process of getting all the numerical features between the range of 0 and 1
 We use MinMaxScaler() to fit and transform the values.
 ### Standardisation 
-Getting the data to result in a Mean = 0 and Standard Deviation = 1. This is to make sure that the data follows a  normal distribution.
+Getting the data to result in a Mean = 0 and Standard Deviation = 1. This is to make sure that the data follows a normal distribution.
 ## Step 2 : Covalence matrix
 ### What is this matrix?
 A covalence matrix is a symmetric square matrix that shows the correlation or relationships between two features.
@@ -22,7 +22,7 @@ A covalence matrix is a symmetric square matrix that shows the correlation or re
 - PC1 = Captures the most variance in the data.
 - PC2 = Captures the second most variance, orthogonal to PC1.
 ## Step 5 : Explained Variance
-- It indicates the amount of variance from the he original dataset retained by each principal component.
+- It indicates the amount of variance from the original dataset retained by each principal component.
 - It helps determine the number of PC(s) required to capture most of the interpretable patterns in the data.
 - Cumulative Variance:
     - To choose the smallest number of PCs that explain atleast 95% of the variance
